@@ -1,0 +1,39 @@
+.ui.right.borderless.menu {
+  background-color: none;
+  box-shadow: none;
+  border: none;
+}
+
+.ui.top.right.image {
+    margin: 10px 50px 10px 50px;
+}
+
+ui.centered.fluid.grid{
+    margin: 10px 10px 10px 50px;
+}
+
+.fitted.right.item{
+
+}
+
+.fitted.iten{
+  color: grey;
+}
+
+.background{
+  background-image: url("https://stillmed.olympic.org/media/Images/OlympicOrg/News/2019/07/23/2019-07-23-Trailblazing-Tokyo-looking-ahead-featured.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.footer {
+  background-color: red;
+  position: absolute;
+  /* bottom: 0;  remove this */
+  margin-top: 10px; /* add this */
+  left: 0;
+  height: 85px;
+  width: 100%;
+  padding: 15px 0;
+}
